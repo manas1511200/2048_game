@@ -22,8 +22,8 @@ This is a Java Swing-based implementation of the classic 2048 game. The game pro
 ## Installation & Running
 1. Clone the repository:
    ```sh
-https://github.com/manas1511200/2048_game.git
-cd 2048-game-java
+   clone https://github.com/manas1511200/2048_game.git
+   cd 2048-game-java
    ```
 2. Compile and run the game using:
    ```sh
