@@ -1,8 +1,8 @@
 # 2048 Game - Java Swing Implementation
 
 ## Overview
-This is a Java Swing-based implementation of the classic 2048 game. The game provides a graphical user interface with smooth animations, keyboard controls, and a high score saving system. Players can move tiles in different directions to combine numbers and try to reach 2048.!
-[Alt Text](https://github.com/user-attachments/assets/2454e523-7f57-4ca0-8162-32e59dca4d0c)
+This is a Java Swing-based implementation of the classic 2048 game. The game provides a graphical user interface with smooth animations, keyboard controls, and a high score saving system. Players can move tiles in different directions to combine numbers and try to reach 2048
+![Alt Text](https://github.com/user-attachments/assets/2454e523-7f57-4ca0-8162-32e59dca4d0c)
 
 ## Features
 - **Dynamic Grid Sizes**: Play on a 3x3, 4x4, or 5x5 grid.
