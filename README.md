@@ -25,6 +25,11 @@ This is a Java Swing-based implementation of the classic 2048 game. The game pro
    ```sh
    [ -d "2048_game" ] && rm -rf "2048_game"
    git clone https://github.com/manas1511200/2048_game.git
+   ```
+   2.If run linux directly use this command
+    ```sh
+   [ -d "2048_game" ] && rm -rf "2048_game"
+   git clone https://github.com/manas1511200/2048_game.git
    cd 2048_game || exit
    chmod +x ./run.sh && ./run.sh
     ```
